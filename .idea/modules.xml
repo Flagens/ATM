@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ATM-d34d212da0d9534c8c32725b1196f1ef1568c784.iml" filepath="$PROJECT_DIR$/.idea/ATM-d34d212da0d9534c8c32725b1196f1ef1568c784.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ATM-d34d212da0d9534c8c32725b1196f1ef1568c784/JavaMavenDemo.iml" filepath="$PROJECT_DIR$/ATM-d34d212da0d9534c8c32725b1196f1ef1568c784/JavaMavenDemo.iml" />
+    </modules>
+  </component>
+</project>
