@@ -63,6 +63,8 @@ public class PaymentMethods {
 
        AuxiliaryFunctions.sendPostRequest(2,blikCode,0,0,10,AuxiliaryFunctions.getDate());
 
+
+
         return false;
     }
 
